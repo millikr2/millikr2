@@ -14,4 +14,5 @@
   - SSIS (ETL/Data engineering).
 - 🔭 LaunchCode web development bootcamp graduate
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/millikr2/)
+- Currently my work is backend, working on a middleware app consuming ISO data
 
