@@ -4,10 +4,11 @@
 **millikr2/millikr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Full stack software developer:
+- 🌱 Senior software developer at Wells Fargo:
   -   Java
   -   PLSQL
   -   Fitnesse (UAT)
+  -   Liquibase (database version control)
   -   Middleware
   - .Net/Winforms/C#
   - T-SQL/Microsoft SSMS
